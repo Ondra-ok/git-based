@@ -2,11 +2,9 @@
 
 
 
-hello word
+* repo pro otestování jak funguje git a gitKraken, nic spešl
 
-
-
-\##Developers
+## Developers
 
 -Ondřej Kurka
 
